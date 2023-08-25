@@ -1,0 +1,67 @@
+/**
+ * @name uuu
+ * @author maenDisease
+ * @version 1.0.11
+ * @description macOS with barely any customization.
+ * @source https://github.com/maenDisease/Solana
+ * @invite BShu37e4jg
+ * @website https://maendisease.github.io/
+ * @authorId 678469587444170762
+ * @BDEditor Solana
+*/
+
+@import url('https://maendisease.github.io/Solana/Solana.css');
+@import url('https://maendisease.github.io/BetterDiscordStuff/css/bdAddonMini.css');
+@import url('https://maendisease.github.io/BetterDiscordStuff/Themes/Solana/addon/mac-titlebar.css');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Apple.css');
+
+:root {
+  --accent-hue: 317;
+  --accent-saturation: 26%;
+  --accent-brightness: 71%;
+  --background-accent-hue: 359;
+  --background-accent-saturation: 0%;
+  --background-accent-brightness: 0%;
+  --background-image: initial; /* url(https://site.com/foobar.png) | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
+  --background-image-position: center;
+  --background-image-size: cover;
+  --background-image-blur: 13px;
+  --background-overlay-opacity: 100%;
+  --background-overlay-color-lightness: -0.31;
+  --background-hue-shift-strength: 61%;
+  --window-background-image: initial;
+  --window-background-image-position: center;
+  --window-background-image-size: cover;
+  --window-background-image-attachment: fixed;
+  --window-opacity: 39%;
+  --window-blur: 14;
+  --window-friends-blur: 20;
+  --window-margin: 0;
+  --window-margin-left: 0;
+  --window-border-radius: 67px;
+  --window-background-lightness: -0.19;
+  --window-accent-tint-strength: 0%;
+  --chat-bubble: 0;
+  --text-link-hue: 212;
+  --chat-text-brightness: -0.5;
+  --home-icon: initial;
+  --favorites-icon: initial;
+  --dock-blur: 27; /* Blur intensity of the dock. */
+  --dock-border-radius: -0.59;
+  --sidebar-width: 234px;
+  --members-width: 203px;
+  --sidebar-text-brightness: -0.52;
+  --background-floating-blur: 22px;
+  --floating-background-lightness: -0.09;
+  --background-floating-opacity: 0.53;
+  --enable-floating-transparency: 1;
+  --custom-font-display: "";
+  --custom-font-regular: "";
+  --custom-font-primary: "";
+  --custom-font-code: "";
+  --enable-blur: 1;
+}
+
+/* Any custom CSS below here */
+
+
